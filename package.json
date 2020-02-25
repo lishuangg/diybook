@@ -1,0 +1,23 @@
+{
+  "name": "diybook",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 Demo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lishuangg/diybook.git"
+  },
+  "keywords": [],
+  "author": "lishuangg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lishuangg/diybook/issues"
+  },
+  "homepage": "https://github.com/lishuangg/diybook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
